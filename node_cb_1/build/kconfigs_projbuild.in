@@ -1,0 +1,6 @@
+source "C:/Espressif/frameworks/esp-idf-v4.3.4/components/app_update/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.3.4/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.3.4/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.3.4/components/partition_table/Kconfig.projbuild"
+source "C:/Users/lucxu/OneDrive/Desktop/Code/node_cb_1/main/components/ssd1306/Kconfig.projbuild"
+source "C:/Users/lucxu/OneDrive/Desktop/Code/node_cb_1/main/Kconfig.projbuild"
